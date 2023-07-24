@@ -11,7 +11,7 @@ int main()
     int sum = 0;
     for (int i = 4; i>= 0; --i)
      sum = sum + a[i];
-     cout << "Sum is ::::: " << sum << endl;
+     cout << "Sum is : " << sum << endl;
 
      return 0;
 
